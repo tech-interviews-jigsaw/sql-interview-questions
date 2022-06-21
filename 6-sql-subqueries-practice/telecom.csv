@@ -1,0 +1,101 @@
+,company_name,company_code,market_cap,stock_price,daily_loss/gain,country
+0,Comcast,CMCSA,$276.76 B,$60.30,-2.30%,🇺🇸 USA
+1,Verizon,VZ,$226.96 B,$54.82,-1.10%,🇺🇸 USA
+2,AT&T,T,$195.77 B,$27.42,-0.51%,🇺🇸 USA
+3,T-Mobile US,TMUS,$167.81 B,$134.47,-1.12%,🇺🇸 USA
+4,Charter Communications,CHTR,$147.21 B,$800.83,-1.29%,🇺🇸 USA
+5,American Tower,AMT,$136.18 B,$299.22,-0.92%,🇺🇸 USA
+6,China Mobile,0941.HK,$128.13 B,$6.26,-1.62%,🇨🇳 China
+7,Nippon Telegraph & Telephone,NPPXF,$107.08 B,$29.61, 3.89%,🇯🇵 Japan
+8,SoftBank,SFTBF,$106.81 B,$62.35, 9.48%,🇯🇵 Japan
+9,Deutsche Telekom,DTE.DE,$100.64 B,$21.22,-0.13%,🇩🇪 Germany
+10,Crown Castle,CCI,$84.51 B,$195.54,-1.49%,🇺🇸 USA
+11,KDDI,KDDIF,$75.12 B,$33.28, 1.28%,🇯🇵 Japan
+12,China Telecom,0728.HK,$63.54 B,$0.35,-1.09%,🇨🇳 China
+13,America Movil,AMX,$62.96 B,$19.05, 1.22%,🇲🇽 Mexico
+14,Bharti Airtel,BHARTIARTL.NS,$49.96 B,$9.10,-0.32%,🇮🇳 India
+15,BCE,BCE,$47.70 B,$52.17,-0.61%,🇨🇦 Canada
+16,Vodafone,VOD,$46.83 B,$16.95,-0.12%,🇬🇧 UK
+17,Cellnex Telecom,CLNX.MC,$46.55 B,$68.55, 0.31%,🇪🇸 Spain
+18,Telstra,TLS.AX,$34.64 B,$2.91, 0.51%,🇦🇺 Australia
+19,Chunghwa Telecom,CHT,$31.16 B,$40.18,-0.25%,🇹🇼 Taiwan
+20,Orange,ORAN,$30.02 B,$11.29,-0.62%,🇫🇷 France
+21,Singtel,SNGNF,$29.29 B,$1.72, 0.00%,🇸🇬 Singapore
+22,Sirius XM,SIRI,$24.95 B,$6.16,-2.69%,🇺🇸 USA
+23,Telenor,TEL.OL,$24.34 B,$17.40,-0.76%,🇳🇴 Norway
+24,China Tower,0788.HK,$24.22 B,$0.14, 2.88%,🇨🇳 China
+25,Dish Network,DISH,$23.98 B,$45.40,-0.07%,🇺🇸 USA
+26,Telkom Indonesia,TLK,$23.54 B,$23.77, 0.08%,🇮🇩 Indonesia
+27,ZTE,000063.SZ,$23.46 B,$5.36, 2.36%,🇨🇳 China
+28,SK Telecom,SKM,$18.55 B,$28.94,-1.16%,🇰🇷 S. Korea
+29,Telia Company,TLSNF,$17.89 B,$4.38, 0.00%,🇸🇪 Sweden
+30,Sinch,SINCH.ST,$16.88 B,$23.32,-0.45%,🇸🇪 Sweden
+31,Liberty Global,LBTYB,$16.67 B,$29.54, 1.86%,🇬🇧 UK
+32,Vodacom,5VD.F,$16.47 B,$9.72, 2.50%,🇿🇦 South Africa
+33,China Unicom,0762.HK,$16.33 B,$0.53,-0.72%,🇨🇳 China
+34,Shaw Communications,SJR,$14.71 B,$29.19,-1.88%,🇨🇦 Canada
+35,Telefonica Brasil,VIV,$13.86 B,$8.23, 1.23%,🇧🇷 Brazil
+36,BT Group,BT-A.L,$13.41 B,$31.13,-2.35%,🇬🇧 UK
+37,Lumen,LUMN,$13.22 B,$11.97,-1.32%,🇺🇸 USA
+38,Iliad,IL2.F,$12.61 B,$215.37,-0.14%,🇫🇷 France
+39,Altice USA,ATUS,$12.40 B,$27.14,-4.00%,🇺🇸 USA
+40,Cable One,CABO,$12.04 B,"$1,995",-4.33%,🇺🇸 USA
+41,INWIT,INW.MI,$11.23 B,$11.70, 0.08%,🇮🇹 Italy
+42,Tele2,TEL2-A.ST,$11.11 B,$15.54,-0.37%,🇸🇪 Sweden
+43,Hong Kong Telecom,6823.HK,$10.38 B,$1.37, 0.95%,🇭🇰 Hong Kong
+44,Elisa,ELISA.HE,$10.35 B,$64.66,-0.33%,🇫🇮 Finland
+45,Taiwan Mobile,3045.TW,$10.11 B,$3.59, 0.81%,🇹🇼 Taiwan
+46,TPG Telecom,TPG.AX,$9.34 B,$5.03, 2.26%,🇦🇺 Australia
+47,OTE Group,OTE.F,$8.78 B,$18.68,-0.54%,🇬🇷 Greece
+48,Indus Towers,INDUSTOWER.NS,$8.67 B,$3.22,-2.26%,🇮🇳 India
+49,Ciena,CIEN,$8.62 B,$55.63,-2.27%,🇺🇸 USA
+50,Elang Mahkota Teknologi,EMTK.JK,$8.28 B,$0.14,-4.83%,🇮🇩 Indonesia
+51,Far EasTone,4904.TW,$7.18 B,$2.20, 0.33%,🇹🇼 Taiwan
+52,Spark New Zealand,NZTCF,$6.58 B,$3.45, 0.00%,🇳🇿 New Zealand
+53,A1 Telekom Austria,TA1.F,$5.91 B,$8.73,-0.41%,🇦🇹 Austria
+54,1&1 Drillisch,DRI.F,$5.57 B,$31.52, 0.00%,🇩🇪 Germany
+55,Sarana Menara Nusantara,TOWR.JK,$4.61 B,$0.09,-1.86%,🇮🇩 Indonesia
+56,Tower Bersama Infrastructure,TBIG.JK,$4.49 B,$0.21,-2.63%,🇮🇩 Indonesia
+57,Turkcell,TKC,$4.18 B,$4.79,-2.04%,🇹🇷 Turkey
+58,PCCW,0008.HK,$4.10 B,$0.53,-0.24%,🇭🇰 Hong Kong
+59,Millicom,TIGO,$3.82 B,$37.76,-0.53%,🇱🇺 Luxembourg
+60,Globalstar,GSAT,$3.71 B,$2.07,-5.91%,🇺🇸 USA
+61,VEON,VEON.AS,$3.70 B,$2.12, 0.90%,🇳🇱 Netherlands
+62,O2 Czech Republic,TEE.F,$3.68 B,$12.10, 0.39%, Czech Republic
+63,Vodafone Idea,IDEA.NS,$3.17 B,$0.11,-1.82%,🇮🇳 India
+64,Indoritel,DNET.JK,$3.16 B,$0.22,-1.85%,🇮🇩 Indonesia
+65,Türk Telekom,TTKOM.IS,$3.00 B,$0.86,-1.11%,🇹🇷 Turkey
+66,NetLink Trust,CJLU.SI,$2.83 B,$0.73,-0.51%,🇸🇬 Singapore
+67,Orange Polska,TPA1.F,$2.76 B,$2.06, 0.06%,🇵🇱 Poland
+68,Eutelsat,ETL.PA,$2.69 B,$11.71,-0.68%,🇫🇷 France
+69,Bandwidth,BAND,$2.67 B,$106.65,-0.02%,🇺🇸 USA
+70,Chorus,CNU.NZ,$2.25 B,$5.05,-0.56%,🇳🇿 New Zealand
+71,Criteo,CRTO,$2.15 B,$35.40,-1.72%,🇫🇷 France
+72,NOS,PMV.F,$2.15 B,$4.18,-1.78%,🇵🇹 Portugal
+73,Sinclair Broadcast,SBGI,$2.13 B,$28.31,-1.19%,🇺🇸 USA
+74,XL Axiata,E5F.F,$1.95 B,$0.16,-23.30%,🇮🇩 Indonesia
+75,TANLA,TANLA.NS,$1.62 B,$11.99,-1.12%,🇮🇳 India
+76,Gogo Inflight Internet,GOGO,$1.47 B,$13.40,-1.18%,🇺🇸 USA
+77,Telia Lietuva,ZWS.F,$1.42 B,$2.40,-0.49%, Lithuania
+78,IDT Corporation,IDT,$1.13 B,$44.22,-0.41%,🇺🇸 USA
+79,Tata Teleservices,TTML.NS,$0.94 B,$0.48, 4.87%,🇮🇳 India
+80,ATN International,ATNI,$0.73 B,$46.51, 1.20%,🇺🇸 USA
+81,Sify,SIFY,$0.71 B,$3.90, 2.09%,🇮🇳 India
+82,AST SpaceMobile,ASTS,$0.63 B,$11.73,-5.10%,🇺🇸 USA
+83,Boingo Wireless,WIFI,$0.62 B,$13.99, 0.00%,🇺🇸 USA
+84,Hathway,HATHWAY.NS,$0.57 B,$0.33, 1.48%,🇮🇳 India
+85,Gilat Telecom,GILT,$0.54 B,$9.66,-0.82%,🇮🇱 Israel
+86,Ooma,OOMA,$0.49 B,$21.38,-5.48%,🇺🇸 USA
+87,Zix,ZIXI,$0.41 B,$7.31,-5.56%,🇺🇸 USA
+88,GTPL Hathway,GTPL.NS,$0.33 B,$3.00, 0.14%,🇮🇳 India
+89,Sasken Technologies,SASKEN.NS,$0.28 B,$18.62,-0.55%,🇮🇳 India
+90,B Communications,BCOM,$0.27 B,$2.28, 3.17%,🇮🇱 Israel
+91,RigNet,RNET,$0.20 B,$9.60,-2.24%,🇺🇸 USA
+92,Spok Holdings,SPOK,$0.20 B,$10.34,-2.36%,🇺🇸 USA
+93,Alaska Communications,ALSK,$0.18 B,$3.40, 0.29%,🇺🇸 USA
+94,Nelco,NELCO.NS,$0.17 B,$7.55, 5.00%,🇮🇳 India
+95,Resonant,RESN,$0.17 B,$2.73,-2.85%,🇺🇸 USA
+96,Mahanagar Telephone Nigam,MTNL.NS,$0.16 B,$0.25, 1.36%,🇮🇳 India
+97,GTT Communications,GTT,$0.13 B,$2.36, 0.00%,🇺🇸 USA
+98,Reliance Communications,RCOM.NS,$0.10 B,$0.04, 3.57%,🇮🇳 India
+99,Vislink Technologies,VISL,$0.09 B,$2.05,-1.44%,🇺🇸 USA
